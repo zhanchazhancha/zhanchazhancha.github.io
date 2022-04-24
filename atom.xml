@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://zhanchazhancha.github.io</id>
     <title>Gridea</title>
-    <updated>2022-04-24T05:29:17.243Z</updated>
+    <updated>2022-04-24T05:35:06.552Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://zhanchazhancha.github.io"/>
     <link rel="self" href="https://zhanchazhancha.github.io/atom.xml"/>
@@ -12,8 +12,8 @@
     <rights>All rights reserved 2022, Gridea</rights>
     <entry>
         <title type="html"><![CDATA[rksdgkgkldflg]]></title>
-        <id>https://zhanchazhancha.github.io/post/rksdgkgkldflg/</id>
-        <link href="https://zhanchazhancha.github.io/post/rksdgkgkldflg/">
+        <id>https://zhanchazhancha.github.io/rksdgkgkldflg/</id>
+        <link href="https://zhanchazhancha.github.io/rksdgkgkldflg/">
         </link>
         <updated>2022-04-24T04:50:18.000Z</updated>
         <content type="html"><![CDATA[<p>dgdfgkdgkfd大夫给开了大法官克拉福德；bfdl</p>
@@ -22,8 +22,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://zhanchazhancha.github.io/post/hello-gridea/</id>
-        <link href="https://zhanchazhancha.github.io/post/hello-gridea/">
+        <id>https://zhanchazhancha.github.io/hello-gridea/</id>
+        <link href="https://zhanchazhancha.github.io/hello-gridea/">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
